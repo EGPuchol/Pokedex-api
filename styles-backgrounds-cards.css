@@ -1,0 +1,155 @@
+/* /* ////////////////////////////BACKGROUND CARTAS/////////////////////////////////// */
+
+.ground-background{
+    background-image: url(./assets/carta-lucha.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    img{
+        background-image: url("./assets/fondo-tierra.jpg");
+        background-size: cover;
+    }
+}
+
+.poison-background{
+    background-image: url(./assets/carta-psiquico.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    img{
+        background-image: url("./assets/fondo-morado.jpg");
+        background-size: cover;
+    }
+}
+
+.fire-background{
+    background-image: url(./assets/carta-fuego.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    img{
+        background-image: url("./assets/fondo-fuego-2.jpg");
+        background-size: auto;
+    }
+}
+
+.rock-background{
+    background-image: url(./assets/carta-lucha.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    img{
+        background-image: url("./assets/fondo-rocas.jpg");
+        background-size: cover;
+    }
+}
+
+.ice-background{
+    background-image: url(./assets/carta-agua.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    img{
+        background-image: url("./assets/fondo-hielo.jpg");
+        background-size: cover;
+    }
+}
+
+.fairy-background{
+    background-image: url(./assets/carta-normal.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    img{
+        background-image: url("./assets/fondo-normal.jpg");
+        background-size: cover;
+    }
+}
+
+.psychic-background{
+    background-image: url(./assets/carta-psiquico.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    img{
+        background-image: url("./assets/fondo-morado.jpg");
+        background-size: cover;
+    }
+}
+
+.grass-background{
+    background-image: url(./assets/carta-planta.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    img{
+        background-image: url("./assets/fondo-bosque.jpg");
+        background-size: cover;
+    }
+}
+
+.fighting-background{
+    background-image: url(./assets/carta-lucha.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    img{
+        background-image: url("./assets/fondo-lucha.jpg");
+        background-size: cover;
+    }
+}
+
+.water-background{
+    background-image: url(./assets/carta-agua.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    img{
+        background-image: url("./assets/fondo-agua.png");
+        background-size: cover;
+    }
+}
+
+.bug-background{
+    background-image: url(./assets/carta-planta.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    img{
+        background-image: url("./assets/fondo-bosque.jpg");
+        background-size: cover;
+    }
+}
+
+.normal-background{
+    background-image: url(./assets/carta-normal.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    img{
+        background-image: url("./assets/fondo-normal.jpg");
+        background-size: cover;
+    }
+}
+
+.electric-background{
+    background-image: url(./assets/carta-electrico.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    img{
+        background-image: url("./assets/fondo-electricidad.webp");
+        background-size: auto;
+    }
+}
+
+.dragon-background{
+    background-image: url(./assets/carta-dragon.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    img{
+        background-image: url("./assets/fondo-dragon.jpg");
+        background-size: cover;
+    }
+}
